@@ -1,0 +1,32 @@
+{
+    "name": "NFT Pikachu",
+    "symbol": "NPIK",
+    "description": "Celebratory Solflare NFT for the Solflare X launch",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "Test1",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "Pikachu Test",
+       "family": "Pikachu"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3mfLLSWsvMoJ4HAr58azDzTFfz3vQL3uzZnH7X73z7Vk",
+          "share": 100
+        }
+      ]
+    }
+  }
